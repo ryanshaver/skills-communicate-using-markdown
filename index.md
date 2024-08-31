@@ -1,5 +1,4 @@
-# This is a H1 Header
-## This is an H2 Header
-#### This is an H3 Header
+# Yaktocat Center
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-This is a short meaningful commit message.
+Welcome to the Cat-dojo
